@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="WenQuanYi Zen Hei, sans-serif">
+<rect width="1080" height="1080" rx="40" fill="#fffaf2"/>
+<text x="540" y="110" text-anchor="middle" font-size="64" font-weight="bold" fill="#333">仓库满了，油就溢进肚子</text>
+
+<rect x="140" y="300" width="420" height="420" rx="20" fill="#ffe1c4" stroke="#c79a72" stroke-width="6"/>
+<text x="350" y="270" text-anchor="middle" font-size="40" fill="#555">皮下脂肪"仓库"</text>
+<rect x="160" y="320" width="380" height="380" rx="12" fill="#ffc928"/>
+<text x="350" y="530" text-anchor="middle" font-size="60" font-weight="bold" fill="#7a4b00">已满！</text>
+<path d="M560 420 C 680 420, 680 560, 760 600" fill="none" stroke="#e0a800" stroke-width="40" stroke-linecap="round"/>
+<circle cx="800" cy="650" r="34" fill="#ffc928"/><circle cx="860" cy="720" r="28" fill="#ffc928"/><circle cx="760" cy="740" r="30" fill="#ffc928"/>
+<ellipse cx="820" cy="700" rx="170" ry="140" fill="none" stroke="#d35400" stroke-width="5" stroke-dasharray="14 10"/>
+<text x="820" y="890" text-anchor="middle" font-size="40" font-weight="bold" fill="#d35400">溢进肚子 = 内脏脂肪</text>
+<text x="540" y="1000" text-anchor="middle" font-size="36" fill="#555">吃多动少 → 仓库装满 → 油往肚子里堆</text></svg>
