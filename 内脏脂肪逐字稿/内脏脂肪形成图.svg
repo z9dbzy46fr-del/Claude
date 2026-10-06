@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="WenQuanYi Zen Hei, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+  <rect width="900" height="520" fill="#fffaf2"/>
+  <text x="450" y="44" text-anchor="middle" font-size="28" font-weight="bold" fill="#333">内脏脂肪是怎么"长"出来的？</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#999"/></marker></defs>
+  <g font-size="17" text-anchor="middle">
+    <rect x="30" y="90" width="180" height="120" rx="14" fill="#ffe1c4"/>
+    <text x="120" y="125" font-weight="bold" font-size="20">① 吃多 动少</text>
+    <text x="120" y="155">甜食、米面、饮料</text>
+    <text x="120" y="180">喝酒、久坐</text>
+    <rect x="250" y="90" width="180" height="120" rx="14" fill="#ffd0a8"/>
+    <text x="340" y="125" font-weight="bold" font-size="20">② 能量用不完</text>
+    <text x="340" y="155">血糖升高</text>
+    <text x="340" y="180">胰岛素拼命"存油"</text>
+    <rect x="470" y="90" width="180" height="120" rx="14" fill="#ffbb88"/>
+    <text x="560" y="125" font-weight="bold" font-size="20">③ 皮下仓库满了</text>
+    <text x="560" y="155">屁股、大腿</text>
+    <text x="560" y="180">存不下了</text>
+    <rect x="690" y="90" width="180" height="120" rx="14" fill="#f28c5a"/>
+    <text x="780" y="125" font-weight="bold" font-size="20" fill="#fff">④ 油溢进肚子</text>
+    <text x="780" y="155" fill="#fff">裹住肝、肠、胰</text>
+    <text x="780" y="180" fill="#fff">= 内脏脂肪</text>
+  </g>
+  <g stroke="#999" stroke-width="3" marker-end="url(#a)">
+    <line x1="212" y1="150" x2="246" y2="150"/><line x1="432" y1="150" x2="466" y2="150"/><line x1="652" y1="150" x2="686" y2="150"/>
+  </g>
+  <!-- belly -->
+  <ellipse cx="230" cy="380" rx="150" ry="105" fill="#f6d5b8" stroke="#c79a72" stroke-width="3"/>
+  <ellipse cx="230" cy="380" rx="118" ry="78" fill="#fff3e6"/>
+  <ellipse cx="190" cy="360" rx="42" ry="26" fill="#a0522d"/><text x="190" y="366" text-anchor="middle" font-size="15" fill="#fff">肝</text>
+  <ellipse cx="265" cy="400" rx="46" ry="26" fill="#e8a0a0"/><text x="265" y="406" text-anchor="middle" font-size="15">肠</text>
+  <g fill="#ffd84d" opacity=".9"><circle cx="150" cy="390" r="12"/><circle cx="225" cy="335" r="11"/><circle cx="310" cy="370" r="12"/><circle cx="215" cy="425" r="11"/><circle cx="160" cy="340" r="9"/><circle cx="300" cy="425" r="10"/></g>
+  <text x="230" y="510" text-anchor="middle" font-size="16" fill="#555">外圈 = 皮下脂肪（能捏到）　黄点 = 内脏脂肪（捏不到）</text>
+  <!-- harms -->
+  <rect x="470" y="270" width="400" height="200" rx="14" fill="#fff" stroke="#f28c5a" stroke-width="2"/>
+  <text x="670" y="305" text-anchor="middle" font-size="20" font-weight="bold" fill="#c0392b">内脏脂肪会"放毒"</text>
+  <g font-size="17" fill="#333">
+    <text x="495" y="345">● 直接流进肝脏 → 脂肪肝</text>
+    <text x="495" y="380">● 让胰岛素失灵 → 高血糖、糖尿病</text>
+    <text x="495" y="415">● 释放炎症物质 → 高血压、高血脂</text>
+    <text x="495" y="450">● 信号：男腰围≥90cm，女≥85cm</text>
+  </g>
+</svg>
